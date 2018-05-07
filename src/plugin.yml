@@ -1,0 +1,6 @@
+name: AutomaticExplosion
+main: me.smokplay.explosion.Main
+version: 1.0
+commands:
+    ae:
+        description: show plugin instructions.

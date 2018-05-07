@@ -1,0 +1,5 @@
+msg_enable: '&7AutomaticExplosion &aenable'
+msg_disable: '&7AutomaticExplosion &cdisable'
+msg_reload: '&7AutomaticExplosion Reload &aComplete!'
+msg_warn: '&7AutomaticExplosion is &cdisable'
+msg_permissions: '&Cyou do not have permits'
